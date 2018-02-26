@@ -151,7 +151,7 @@ links_layout: block
 #links_layout: inline
 links:
   # Title: http://example.com/
-  GitHub: https://github.com/xiaoxuduan
+  # GitHub: https://github.com/xiaoxuduan
   # Linkedin: https://www.linkedin.com/
 
 # Sidebar Avatar
@@ -185,8 +185,8 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  # display: post
-  display: always
+  display: post
+  # display: always
   #display: hide
   # display: remove
 
@@ -405,7 +405,7 @@ valine:
 # Introduction: https://imsun.net/posts/gitment-introduction/
 # You can get your Github ID from https://api.github.com/users/<Github username>
 gitment:
-  enable: true
+  enable: false
   mint: true # RECOMMEND, A mint on Gitment, to support count, language and proxy_gateway
   count: true # Show comments count in post meta area
   lazy: true # Comments lazy loading with a button

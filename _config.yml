@@ -81,8 +81,8 @@ theme: hexo-theme-next
 deploy:
   type: git
   repo: git@github.com:xiaoxuduan/xiaoxuduan.github.io.git
-  branch: gh-pages
-
+  branch: master
+  
 search:
   path: search.xml
   field: post

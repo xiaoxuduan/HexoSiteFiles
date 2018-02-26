@@ -1,8 +1,7 @@
 ---
 title: A software to defend your eyes
-tags: 'f.lux; screen brightness'
+tags: f.lux
 categories: softwares
-comments: true
 abbrlink: 88a28832
 date: 2017-09-27 20:09:40
 copyright: true
